@@ -1,0 +1,10 @@
+1 - Automatizar mantenimiento
+--- Cuando se termina (Se cierra) un mantenimiento de rutina o por algun problema se debe crear otro chequeo en la fecha antes de que venza
+el equipo que se utilizo. Si se uso mas de 1 equipo, se elige el equipo que se venza primero como referencia.
+
+2 - Sincronizar la gestión de inventario
+--- Sincronizar el inventario pegandole a una API externa que devuelve todos los datos sobre los componentes que se usan para
+reparar los vehiculos. La sincronizacion se debe realizar a cierta hora (a la 1:00 a.m. PST) todos los dias.
+
+3 - Crear pruebas unitarias
+--- Todo al 100% de cobertura. 
